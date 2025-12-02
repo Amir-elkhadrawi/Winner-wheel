@@ -1,5 +1,3 @@
-عق
-عقبيسب333333fsdf
 ## Run Locally
 
 **Prerequisites:**  Node.js
